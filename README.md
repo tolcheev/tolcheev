@@ -2,7 +2,7 @@
 
 Я QA Automation Engineer и ментор по автоматизации тестирования. В IT с 2017 года. Помогаю начать в AQA или перейти из Manual QA: Java, Python, JavaScript/TypeScript, UI- и API-автотесты, Git и CI/CD.
 
-Практика для учеников — на [T-QA](https://t-qa.ru/). О менторстве и условиях работы — на [моём сайте](https://tolcheev.com/).
+Практика для учеников — на [T-QA](https://t-qa.ru/). О менторстве и условиях работы — на [моём сайте](https://tolcheev.com/). Отзывы учеников — [на 2R](https://2r.ru/mentors/6eb5bc19036d633e4b1041b803a82183).
 
 ## Публичные проекты
 
