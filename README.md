@@ -1,16 +1,14 @@
-## Hi there 👋
+# Владислав Толчеев / Vladislav Tolcheev
 
-<!--
-**tolcheev/tolcheev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я QA Automation Engineer и ментор по автоматизации тестирования. В IT с 2017 года. Помогаю начать в AQA или перейти из Manual QA: Java, Python, JavaScript/TypeScript, UI- и API-автотесты, Git и CI/CD.
 
-Here are some ideas to get you started:
+Практика для учеников — на [T-QA](https://t-qa.ru/). О менторстве и условиях работы — на [моём сайте](https://tolcheev.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Публичные проекты
+
+- [git-workflows-lab](https://github.com/tolcheev/git-workflows-lab): упражнения по Git, Git Flow и trunk-based development.
+- [java-aqa-cicd-example](https://github.com/tolcheev/java-aqa-cicd-example): пример Java AQA с JUnit 5, REST Assured, Selenide и CI/CD.
+- [Scavodio](https://github.com/tolcheev/Scavodio): приложение для извлечения аудио из видео на macOS.
+- [recny](https://github.com/tolcheev/recny): локальная запись звонков на macOS и Windows.
+
+[YouTube](https://www.youtube.com/@quality_cult) · [Telegram](https://t.me/tolcheevvladislav)
